@@ -1,0 +1,15 @@
+body{
+  background-image: linear-gradient(hotpink, purple, hotpink);
+}
+.title{
+  color: #fff;
+  padding: 100px 500px;
+}
+.media{
+
+}
+.list{
+  list-style-type: none;
+  display: inline-block;
+  padding: 20px 50px;
+}
